@@ -81,4 +81,5 @@ Also see the `docs` folder for in-depth explanations of the various exploits exp
 - NodeJS (v20.14.0)
 - ExpressJS (4.19.2)
 - MariaDB (10.6.2)
+- SAST QA
 
